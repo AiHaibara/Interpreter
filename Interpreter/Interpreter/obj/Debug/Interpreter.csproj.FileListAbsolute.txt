@@ -1,0 +1,7 @@
+C:\Users\Ai\Documents\Visual Studio 2017\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\Visual Studio 2017\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe.config
+C:\Users\Ai\Documents\Visual Studio 2017\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+C:\Users\Ai\Documents\Visual Studio 2017\Projects\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+C:\Users\Ai\Documents\Visual Studio 2017\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+C:\Users\Ai\Documents\Visual Studio 2017\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.pdb
+C:\Users\Ai\Documents\Visual Studio 2017\Projects\Interpreter\Interpreter\obj\Debug\Interpreter.csprojResolveAssemblyReference.cache
